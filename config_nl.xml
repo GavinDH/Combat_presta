@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>workplace</name>
+    <displayName><![CDATA[Workplace Lite]]></displayName>
+    <version><![CDATA[1.0]]></version>
+    <description><![CDATA[Easy to use workplace manager]]></description>
+    <author><![CDATA[Gavin den Hollander]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall? Uninstalling this module will result in the lost of saved information in this module! the whole database needed for this module will be removed. if you ever want to use the module again please consider deactivating it!]]></confirmUninstall>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
